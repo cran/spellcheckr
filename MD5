@@ -1,0 +1,7 @@
+cbe6ca69086d6cd72131661b4b7bb253 *DESCRIPTION
+53e5dcea2ab7075fd0e97108610c8029 *NAMESPACE
+ddbc0cfceb3c4e7c01b92e31c075d4c8 *R/spellcheckr.R
+236041bd46fd597aeeb549a5c3ce89b0 *data/datalist
+9dd68ed606dd8884fc71af28c39c3936 *data/dict.RData
+a11aa2429c9c093a1f423b108bcb9ce2 *man/correct.Rd
+38ab0e99acb824aaa54f64e937f24cde *man/dict.Rd
